@@ -1,3 +1,5 @@
 # faluygulamasi
 
-flutter ile geliştirilmiş fal uygulaması.
+flutter ile geliştirilmiş bir fal uygulaması.
+
+Bu uygulama Dr. Öğretim Üyesi Ahmet Cevahir ÇINAR tarafından yürütülen 3006881 kodlu MOBİL PROGRAMLAMA dersi kapsamında 173006004 numaralı Nagihan GÜNDOĞAN tarafından 30 Nisan 2021 günü yapılmıştır.	
